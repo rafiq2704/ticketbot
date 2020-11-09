@@ -77,7 +77,7 @@ def get_name():
     return input("First, please let us know who am I speaking with?\n")
 
 def other_desc():
-    res = input("Please tell us what happen?")
+    res = input("Please tell us what happen?\n")
 
     return res
 
